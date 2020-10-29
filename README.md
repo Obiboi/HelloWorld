@@ -8,4 +8,4 @@ Have java installed.
 
 ## Installation 
 
-Download repo, run Main.java
+Download repo
