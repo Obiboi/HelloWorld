@@ -8,4 +8,5 @@ Have java installed.
 
 ## Installation 
 
-Download repo
+- Download Repo
+- Compile and run HelloWorld.java with console
