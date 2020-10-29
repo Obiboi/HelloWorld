@@ -6,6 +6,6 @@
 
 Have java installed.
 
-#Installation 
+## Installation 
 
 Download repo, run Main.java
